@@ -37,7 +37,7 @@
 
 <h2 align="left">About me</h2>
 
-I am a certified and highly competent Data Analyst with extensive expertise in EXCEL, SQL, and POWER BI. I possess exceptional skills in team collaboration and providing unwavering project support. <br><br>As a driven and detail-oriented professional, I am passionate about utilizing data to drive business performance and enhance customer experience. I have a strong ability to leverage data mining and data visualization to create actionable insights and develop effective solutions to business challenges.</h4>
+I am a certified and highly competent Data Analyst with extensive expertise in EXCEL, SQL, and POWER BI. I possess exceptional skills in team collaboration and providing unwavering project support. <br><br>As a driven and detail-oriented professional, I am passionate about utilizing data to drive business performance and enhance customer experience. I have a strong ability to leverage data visualization to create actionable insights and develop effective solutions to business challenges.</h4>
 
 ###
 
