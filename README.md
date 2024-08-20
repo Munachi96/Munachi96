@@ -11,7 +11,7 @@
 ###
 
    -  🎓Certified Data Analyst<br>
-   -  💻 SQL Specialist    <br> 
+   -  💻 SQL & PYTHON    <br>
    -  📊 Business Intelligence Enthusiast<br> 
    -  💻 Mostly working on Database,<br>Postgresql MySQL<br>
    -  🌐 Exploring Tech</p>
